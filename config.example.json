@@ -1,0 +1,15 @@
+{
+  "algodUrl": "https://testnet-api.algonode.cloud",
+  "mnemonic": "",
+  "nftStorageApiKey": "",
+  "namePrefix": "FUMS #",
+  "imageExtension": ".jpeg",
+  "imageMimeType": "image/jpeg",
+  "description": "Welcome To The Fumly - 4000 1/1 NFTs",
+  "assets": [
+    {
+      "index": 120051643,
+      "number": "0881"
+    }
+  ]
+}
